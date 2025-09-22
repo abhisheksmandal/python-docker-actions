@@ -39,7 +39,8 @@ jobs:
         with:
           context: .
           push: true
-          tags: abhishekmandal/my-python-app:latest
+          tags: abhishekmandal/python-docker-actions:latest
+
 
   deploy:
     runs-on: ubuntu-latest
