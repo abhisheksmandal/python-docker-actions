@@ -51,3 +51,9 @@ htmlcov/
 *.seed
 *.pid.lock
 docker-compose.override.yml
+
+# CUSTOM
+.bash_history
+.docker/
+.ssh/
+
