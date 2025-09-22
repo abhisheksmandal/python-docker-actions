@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-    return {"message": "Hello, GitHub Actions + Docker + Python!"}
+    return {"message": "Hello, GitHub Actions + Docker + Python v2!"}
